@@ -1,0 +1,23 @@
+/*
+	Name: Ivince Pajarin
+	Professor: Dr. Anna Baynes
+	Class: CSC196W-01 - Web Programming
+	Assignment: Week 05 - How to Make Changes to the DOM
+	Due date: 3/2/2021 -> Moved to 3/9/2021
+	week05.css
+*/
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #81dafc;
+  }
+  
+  .todo-delete-btn {
+    margin: 5px;
+  }
+  
+  .todo-li {
+    margin: 15px 0px;
+  }
